@@ -3,7 +3,9 @@
 ## Project Overview
 Goth Bank is a full-stack simulated digital banking platform built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, **Redux Toolkit + RTK Query**, **Recharts**, and **SQLite (`better-sqlite3`)**. It simulates a real-world multi-role banking environment across **Admin**, **Bank Staff**, and **Customer** roles with server-side ACID transactions, cryptographic password & PIN verification (`scrypt`), rule-based compliance flagging, automated loan amortization schedules, PDF/CSV exports, and light/dark mode support.
 
-https://github.com/user-attachments/assets/3ecc1080-c224-45da-8679-7a17254b638c
+## Project Demo
+
+[Watch Project Demo](https://github.com/user-attachments/assets/3ecc1080-c224-45da-8679-7a17254b638c)
 
 ---
 
